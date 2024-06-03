@@ -1,6 +1,9 @@
 spring:
   application:
     name: Arquitetura Hexagonal - Ports and Adapters
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/hexagonal
 
 hexagonal:
   client:
