@@ -1,8 +1,8 @@
-package com.github.carreiras.hexagonal.apllcation.core.usecase;
+package com.github.carreiras.hexagonal.application.core.usecase;
 
-import com.github.carreiras.hexagonal.apllcation.core.domain.Customer;
-import com.github.carreiras.hexagonal.apllcation.ports.out.FindAddressByZipCodeOutputPort;
-import com.github.carreiras.hexagonal.apllcation.ports.out.InsertCustomerOutputPort;
+import com.github.carreiras.hexagonal.application.core.domain.Customer;
+import com.github.carreiras.hexagonal.application.ports.out.FindAddressByZipCodeOutputPort;
+import com.github.carreiras.hexagonal.application.ports.out.InsertCustomerOutputPort;
 
 public class InsertCustomerUseCase {
 

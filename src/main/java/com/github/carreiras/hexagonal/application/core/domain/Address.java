@@ -1,4 +1,4 @@
-package com.github.carreiras.hexagonal.apllcation.core.domain;
+package com.github.carreiras.hexagonal.application.core.domain;
 
 public class Address {
 
